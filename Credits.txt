@@ -1,0 +1,3 @@
+https://codestitch.app/app
+https://fontawesome.com/search?q=education&o=r
+github.com/ajlkn/jquery.scrollex 
